@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SQLiteUrunList</string>
+    <string name="action_settings">Settings</string>
+    <string name="lstuyari">Liste Boş</string>
+    <string name="btnkaydet">Kaydet</string>
+    <string name="btniptal">İptal</string>
+    <string name="alerttitle">UYARI!</string>
+    <string name="alertMesaj">İşelem Seçiniz</string>
+    <string name="alertbtnguncelle">Güncelle</string>
+    <string name="alertbtnsil">Sil</string>
+    <string name="alertbtniptal">İptal</string>
+    <string name="detayurunadi">Ürün Adı</string>
+    <string name="detayformhata">Lütfen Formu Doldurunuz !</string>
+    <string name="detaykayithata">Kayıt İşlemi Başarısız !</string>
+    <string name="dateyKayitBsarili">Kayıt İşlemi Başarılı !</string>
+    <string name="dateyUruneGit">Ürüne Git !</string>
+    <string name="eturunadi">Ürün Adi:    </string>
+    <string name="etstokmiktari">Stok Miktarı:</string>
+    <string name="etbirimfiyat">Birim Fiyatı:</string>
+    <string name="viewurundetayliste">Ürün Detayları</string>
+</resources>
